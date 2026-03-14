@@ -20,17 +20,18 @@
 //     console.log("eccellente")
 // }else { console.log ("voto non valido")}
 
+// secondo esercizio
 
-let t = prompt ("inserisci temperatura")
+// let t = prompt ("inserisci temperatura")
 
-if  (t < 20 && t >= 0)
-    { console.log ("non ci sono piu le mezze stagioni")}
-else if (t >=30 ){
-    console.log ("lu mare, lu sule e lu ientu")
-}
-else if (t < 0 ) {
-    console.log("non è tanto il freddo quanto l’umidità");
-}
-else if (t < -10 ) {
-    console.log ("copriti…ancora ti raffreddi");
-}else { console.log ("voto non valido")}
+// if  (t < 20 && t >= 0)
+//     { console.log ("non ci sono piu le mezze stagioni")}
+// else if (t >=30 ){
+//     console.log ("lu mare, lu sule e lu ientu")
+// }
+// else if (t < 0 ) {
+//     console.log("non è tanto il freddo quanto l’umidità");
+// }
+// else if (t < -10 ) {
+//     console.log ("copriti…ancora ti raffreddi");
+// }else { console.log ("voto non valido")}
