@@ -20,7 +20,9 @@
 //     console.log("eccellente")
 // }else { console.log ("voto non valido")}
 
-// secondo esercizio
+
+
+// 2 esercizio
 
 // let t = prompt ("inserisci temperatura")
 
@@ -35,3 +37,13 @@
 // else if (t < -10 ) {
 //     console.log ("copriti…ancora ti raffreddi");
 // }else { console.log ("voto non valido")}
+
+// 3 esercizio :
+
+let num = Math.floor(Math.random()*(11-1) +1 )
+
+
+for (let i = 1; i <= 10; i++)
+    {
+    console.log (num *i)
+}
