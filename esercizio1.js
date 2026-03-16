@@ -40,10 +40,23 @@
 
 // 3 esercizio :
 
-let num = Math.floor(Math.random()*(11-1) +1 )
+// let num = Math.floor(Math.random()*(11-1) +1 )
 
 
-for (let i = 1; i <= 10; i++)
-    {
-    console.log (num *i)
+// for (let i = 1; i <= 10; i++)
+//     {
+//     console.log (num *i)
+// }
+
+
+// ESERCIZIO DADI
+
+let tiri = 5
+let player1= 0
+let player2= 0
+
+for (let i =0; i < tiri ; i++ ) {
+	player1 = player1 + math.floor (math.random () * (7-1)+1)
+    player2 = player2 + math.floor (math.random () * (7-1)+1)
+    console.log("player 1 :"+ player1 + "player2"+player2)
 }
